@@ -8,11 +8,6 @@ if jumlah_nilai.isdigit():
     # Membuat list untuk menyimpan nilai
     nilai_list = []
     
-    # Nilai ke-1    80
-    # Nilai ke-2    76
-    # Nilai ke-3    55
-    # Nilai ke-4    60
-    # Nilai ke-5    80
     
     # Meminta input nilai sesuai jumlah yang diminta
     for i in range(1, jumlah_nilai + 1):
@@ -41,7 +36,5 @@ if jumlah_nilai.isdigit():
         print(f"Nilai Rata-rata = {rata_rata}")
         print(f"Nilai Tertinggi = {nilai_tertinggi}")
         print(f"Nilai Terendah = {nilai_terendah}")
-        #print(sum(nilai_list))
-        #print(max(nilai_list))
 else:
     print("Input jumlah nilai salah, tolong masukkan angka.")
