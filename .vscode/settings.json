@@ -1,0 +1,5 @@
+{
+  "files.autoSaveDelay": 0,
+  "files.autoSaveWhenNoErrors": true,
+  "files.autoSave": "afterDelay"
+}

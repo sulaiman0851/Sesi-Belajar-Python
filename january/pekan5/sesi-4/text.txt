@@ -1,0 +1,3 @@
+LANGKAH2 MEMBOAT PACKAGE OOP PADA Python
+
+1. Buat class __init__.py pada folder 
