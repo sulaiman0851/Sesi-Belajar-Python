@@ -3,7 +3,7 @@ class MakhlukHidup():
         self.nama = nama
         self.jenis = jenis
         self.umur = umur
-        print(f"jenis: {jenis}\nNama {self.jenis}: {nama}\numur {self.jenis}: {umur} tahun")
+        print(f"jenis: {jenis}\nNama {jenis}: {nama}\numur {jenis}: {umur} tahun")
     
     def bernafas(self, nafas_type):
         return f"{self.jenis} {self.nama} bernafas dengan {nafas_type}"

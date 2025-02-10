@@ -10,4 +10,4 @@ class Hewan():
         return f"{self.jenisHewan} beisa bergerak cepat"
 
     def berkembang_biak(self, berkembang_biak):
-        return f"{self.jenisHewan} berkembang biak dengan cara {self.berkembang_biak}"
+        return f"{self.jenisHewan} berkembang biak dengan cara {berkembang_biak}"
